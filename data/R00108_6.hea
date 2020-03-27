@@ -1,0 +1,16 @@
+R00108_6 1 10000
+R00108_6.dat 16
+# ECE443X: FIRST 6 SECONDS OF MCGILL EMGLAB R00108.dat
+# gender: f
+# age: 25
+# diagnosis: normal
+# muscle: brachial biceps
+# protocol: steady isometric contraction
+# level: 10% MVC
+# electrode: monopolar needle
+# high-pass filter: 8 Hz
+# low-pass filter: 8 kHz
+# contributor: Kevin McGill, VA Palo Alto Health Care System
+# date: 01/22/1987
+# identifier: ca2208.emg
+# contact: mcgill@rrdmail.stanford.edu
